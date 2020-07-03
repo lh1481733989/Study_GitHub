@@ -32,6 +32,5 @@ public class Demo01Extends {
         Zi zi = new Zi();
         //优先用子类方法
         zi.method();
-
     }
 }
