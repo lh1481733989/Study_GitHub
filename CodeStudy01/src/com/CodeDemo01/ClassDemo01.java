@@ -9,7 +9,6 @@ public class ClassDemo01 {
         System.out.println("测试git2");
     }
 }
-
 /**
  * 内部类
  */

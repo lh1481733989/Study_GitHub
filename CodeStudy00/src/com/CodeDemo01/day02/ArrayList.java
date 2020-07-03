@@ -1,4 +1,4 @@
-package cn.Study.day02;
+package com.CodeDemo01.day02;
 
 import java.util.Arrays;
 

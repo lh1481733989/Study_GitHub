@@ -1,4 +1,4 @@
-package cn.Study.day01;
+package com.CodeDemo01.day01;
 
 public class Demo01Method {
     public static void main(String[] args) {

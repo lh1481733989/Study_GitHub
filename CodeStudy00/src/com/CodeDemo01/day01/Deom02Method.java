@@ -1,4 +1,4 @@
-package cn.Study.day01;
+package com.CodeDemo01.day01;
 /**
  * 定义一个两个数据相加的方法
  */

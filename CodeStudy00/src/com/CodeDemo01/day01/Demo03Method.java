@@ -1,4 +1,4 @@
-package cn.Study.day01;
+package com.CodeDemo01.day01;
 
 /**
  * 用来求出1-100之间所有数字的和
