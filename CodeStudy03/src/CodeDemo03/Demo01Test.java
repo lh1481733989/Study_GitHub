@@ -26,7 +26,6 @@ public class Demo01Test {
             String str = iterator.next();
             System.out.println(str);
         }
-
     }
 
     /**

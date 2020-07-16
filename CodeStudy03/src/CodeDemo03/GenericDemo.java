@@ -41,6 +41,4 @@ public class GenericDemo {
             System.out.println(itt);
         }
     }
-
-
 }
