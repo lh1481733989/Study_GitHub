@@ -2,7 +2,7 @@ package CodeDemo04;
 
 import java.util.Objects;
 
-public class Person extends Object{
+public class Person implements Comparable<Person>{
     private String name;
     private int age;
 
@@ -50,5 +50,10 @@ public class Person extends Object{
     public int hashCode() {
 
         return Objects.hash(name, age);
+    }
+    /*重写方法*/
+    @Override
+    public int compareTo(Person o) {
+        return this.age-o.age;
     }
 }
