@@ -48,6 +48,5 @@ public class DiGui {
     private static void a() {
         System.out.println("a方法！");
         a();
-
     }
 }
