@@ -30,6 +30,7 @@ public class ImageCopyTest {
         while ((index=fis.read(bytes))!=-1){
             fos.write(bytes,0,index);
         }
+
         fos.close();
         fis.close();
         long end = System.currentTimeMillis();
