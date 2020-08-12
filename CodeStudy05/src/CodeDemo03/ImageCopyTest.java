@@ -21,15 +21,15 @@ public class ImageCopyTest {
         long start = System.currentTimeMillis();
         FileInputStream  fis = new FileInputStream("C:\\Users\\admin\\Desktop\\1.jpg");
         FileOutputStream fos = new FileOutputStream("G:\\1.jpg");
-        byte[] bytes = new byte[1024];
+        /*byte[] bytes = new byte[1024];*/
         int index = 0 ;
-        /*while ((index = fis.read())!=-1){
+        while ((index = fis.read())!=-1){
             fos.write(index);
-        }*/
-
-        while ((index=fis.read(bytes))!=-1){
-            fos.write(bytes,0,index);
         }
+
+        /*while ((index=fis.read(bytes))!=-1){
+            fos.write(bytes,0,index);
+        }*/
 
         fos.close();
         fis.close();
