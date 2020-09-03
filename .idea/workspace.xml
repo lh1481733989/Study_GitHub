@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64568f02-d684-4e2d-b47b-831213b58507" name="Default" comment="" />
+    <list default="true" id="150048f9-c9c6-46ab-b58b-bda1441ca23a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_0_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mchange_commons_java_0_2_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring_beans_5_1_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring_core_5_1_10_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/CodeStudy07.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/C3P0/C3P0Demo1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/Druid/JruidDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/Druid/UseJruidTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/JavaBean/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateDemo1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/c3p0-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/druid.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCLoginTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonUtilsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCralayTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/jdbc/JdbcConnectionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/util/JDBCDruidUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeStudy07/src/util/JDBCUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/c3p0-0.9.5.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/druid-1.0.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/junit-4.11.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/mchange-commons-java-0.2.12.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/mysql-connector-java-8.0.11.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/spring-beans-5.1.10.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/spring-core-5.1.10.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/spring-jdbc-5.1.10.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/spring-tx-5.1.10.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +54,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ClassDemo01.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeStudy01/src/com/CodeDemo01/ClassDemo01.java">
+      <file leaf-file-name="JDBCTemplateDemo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="220">
+              <caret line="10" column="83" lean-forward="false" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1599137435459" expanded="true" signature="361:394" ph="select * fro... emp" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBCDruidUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeStudy07/src/util/JDBCDruidUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1275">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBCTemplateTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1599140041926" expanded="true" signature="623:658" ph="update emp... " />
+                <marker date="1599140041926" expanded="true" signature="825:857" ph="select * fro... emp" />
+                <marker date="1599140041926" expanded="true" signature="1100:1132" ph="select * fro... emp" />
+                <marker date="1599140041926" expanded="true" signature="1393:1415" ph="select * fro... Pserson" />
+                <marker date="1599140041926" expanded="true" signature="2158:2180" ph="select * fro... Pserson" />
+                <marker date="1599140041926" expanded="true" signature="2461:2483" ph="select * fro... Pserson" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -38,18 +115,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo01Method.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day01/Deom02Method.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo03Method.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day01/DemoMethodOverload.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day02/ArrayList.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day02/Student.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Student.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day03/ScannerTest.java" />
-        <option value="$PROJECT_DIR$/code_Study/src/cn/Study/day03/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/CodeStudy01/src/com/CodeDemo01/ClassDemo01.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JdbcConnectionTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest02.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest03.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/JavaBean/Person.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/util/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonUtilsTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCLoginTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCralayTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/C3P0/C3P0Demo1.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/Druid/JruidDemo.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/util/JDBCDruidUtils.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/Druid/UseJruidTest.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateDemo1.java" />
+        <option value="$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateTest.java" />
       </list>
     </option>
   </component>
@@ -62,9 +143,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\maven" />
-        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+        <option name="localRepository" value="F:\Maven" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -73,6 +154,9 @@
     <option name="y" value="145" />
     <option name="width" value="1600" />
     <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -89,64 +173,77 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeStudy07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeStudy07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeStudy07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeStudy07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringJDBCTemplate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeStudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeStudy07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeStudy01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeStudy01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeDemo01" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.4777475" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Git\Study_GitHub\libs" />
+      <recent name="F:\Git\Study_GitHub\CodeStudy07\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest">
+  <component name="RunManager" selected="Application.JDBCTemplateDemo1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -168,14 +265,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="C3P0Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.Study.day02.*" />
+          <option name="PATTERN" value="C3P0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.Study.day02.ArrayList" />
+      <option name="MAIN_CLASS_NAME" value="C3P0.C3P0Demo1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -184,17 +281,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="code_Study" />
+      <module name="Study_GitHub" />
       <envs />
     </configuration>
-    <configuration name="Demo01Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JDBCConnectionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.Study.day02.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.Study.day02.Demo01Array" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCConnectionTest03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -203,17 +300,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="code_Study" />
+      <module name="Study_GitHub" />
       <envs />
     </configuration>
-    <configuration name="Demo01Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JDBCTemplateDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.Study.day02.*" />
+          <option name="PATTERN" value="SpringJDBCTemplate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.Study.day02.Demo01Student" />
+      <option name="MAIN_CLASS_NAME" value="SpringJDBCTemplate.JDBCTemplateDemo1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -222,17 +319,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="code_Study" />
+      <module name="Study_GitHub" />
       <envs />
     </configuration>
-    <configuration name="Demo03Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JruidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.Study.day01.*" />
+          <option name="PATTERN" value="Druid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.Study.day01.Demo03Method" />
+      <option name="MAIN_CLASS_NAME" value="Druid.JruidDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -241,17 +338,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="code_Study" />
+      <module name="Study_GitHub" />
       <envs />
     </configuration>
-    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UseJruidTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.Study.day03.*" />
+          <option name="PATTERN" value="Druid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.Study.day03.ScannerTest" />
+      <option name="MAIN_CLASS_NAME" value="Druid.UseJruidTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -260,7 +357,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="code_Study" />
+      <module name="Study_GitHub" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -338,26 +435,21 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo03Method" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo01Array" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo01Student" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ScannerTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.JDBCConnectionTest03" />
+      <item index="1" class="java.lang.String" itemvalue="Application.C3P0Demo1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.JruidDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UseJruidTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JDBCTemplateDemo1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScannerTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo01Student" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayList" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo01Array" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo03Method" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JDBCTemplateDemo1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UseJruidTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JruidDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.C3P0Demo1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JDBCConnectionTest03" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -367,30 +459,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64568f02-d684-4e2d-b47b-831213b58507" name="Default" comment="" />
-      <created>1583377844270</created>
+      <changelist id="150048f9-c9c6-46ab-b58b-bda1441ca23a" name="Default" comment="" />
+      <created>1599010113773</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583377844270</updated>
-      <workItem from="1583377845800" duration="2874000" />
-      <workItem from="1583807470221" duration="1348000" />
-      <workItem from="1583830905963" duration="1660000" />
-      <workItem from="1584070548292" duration="1319000" />
-      <workItem from="1584322837837" duration="5000" />
-      <workItem from="1584322877460" duration="5000" />
-      <workItem from="1584340441650" duration="2048000" />
-      <workItem from="1584342762102" duration="3000" />
-      <workItem from="1585557545560" duration="3000" />
-      <workItem from="1586139521355" duration="2645000" />
-      <workItem from="1586222047026" duration="887000" />
-      <workItem from="1593260830927" duration="1473000" />
-      <workItem from="1593304923191" duration="643000" />
-      <workItem from="1593670565125" duration="1280000" />
+      <updated>1599010113773</updated>
+      <workItem from="1599010115166" duration="13665000" />
+      <workItem from="1599115227389" duration="8130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16193000" />
+    <option name="totallyTimeSpent" value="21795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -398,31 +478,32 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -440,16 +521,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24034335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -461,244 +542,255 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeStudy01/src/com/CodeDemo01/ClassDemo01.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCralayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1599033610793" expanded="true" signature="585:638" ph="update account... " />
+            <marker date="1599033610793" expanded="true" signature="668:721" ph="update account... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy02/src/CodeDemo01/EquelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy06/src/Test/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeStudy01/src/com/CodeDemo01/ClassDemo01.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/CodeStudy07.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JdbcConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <marker date="1599011073803" expanded="true" signature="482:526" ph="update accont... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/JavaBean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="66" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1599013635997" expanded="true" signature="380:421" ph="insert into accont... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#184#185#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+            <marker date="1599017368152" expanded="true" signature="505:525" ph="select * fro... person" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCConnectionTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1599014821508" expanded="true" signature="332:352" ph="select * fro... accont" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCralayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="22">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1599033610793" expanded="true" signature="585:638" ph="update account... " />
+            <marker date="1599033610793" expanded="true" signature="668:721" ph="update account... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day03/ScannerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day03/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day03/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/C3P0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/DemoMethodOverload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo01Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo03Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Deom02Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo01MethodOverload.java" />
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/DemoMethodOverload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo01Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Demo03Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day01/Deom02Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo02phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Demo01Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day02/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day03/ScannerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_Study/src/cn/Study/day03/ArrayListTest.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/c3p0-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        <state relative-caret-position="88">
+          <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeStudy01/src/com/CodeDemo01/ClassDemo01.java">
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/C3P0/C3P0Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/Druid/JruidDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCPersonUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <marker date="1599030555399" expanded="true" signature="576:596" ph="select * fro... person" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/jdbc/JDBCLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <marker date="1599032980698" expanded="true" signature="1097:1173" ph="select * fro... user" />
+            <marker date="1599032980698" expanded="true" signature="1926:1978" ph="select * fro... user" />
+            <marker date="1599032980698" expanded="true" signature="1926:1980" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/util/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="75" column="7" lean-forward="true" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/Druid/UseJruidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1599118739274" expanded="true" signature="447:481" ph="select * fro... emp" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="83" lean-forward="false" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1599137435459" expanded="true" signature="361:394" ph="select * fro... emp" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/util/JDBCDruidUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStudy07/src/SpringJDBCTemplate/JDBCTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1599140041926" expanded="true" signature="623:658" ph="update emp... " />
+            <marker date="1599140041926" expanded="true" signature="825:857" ph="select * fro... emp" />
+            <marker date="1599140041926" expanded="true" signature="1100:1132" ph="select * fro... emp" />
+            <marker date="1599140041926" expanded="true" signature="1393:1415" ph="select * fro... Pserson" />
+            <marker date="1599140041926" expanded="true" signature="2158:2180" ph="select * fro... Pserson" />
+            <marker date="1599140041926" expanded="true" signature="2461:2483" ph="select * fro... Pserson" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,11 +846,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>code_Study</last-edited>
+          <last-edited>Study_GitHub</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.4777475" />
+                <option value="0.2" />
                 <option value="0.6" />
               </list>
             </option>
@@ -767,6 +859,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit-4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
