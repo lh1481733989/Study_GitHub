@@ -5,7 +5,6 @@ import org.junit.Test;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
-import org.springframework.jdbc.core.RowMapperResultSetExtractor;
 import util.JDBCDruidUtils;
 
 import java.sql.ResultSet;
@@ -65,6 +64,7 @@ public class JDBCTemplateTest {
             System.out.println(person);
         }
     }
+
     //4.查询并封装到person对象中
     @Test
     public void test3_2(){
